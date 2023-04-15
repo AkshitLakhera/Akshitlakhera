@@ -11,7 +11,7 @@
 </p>
 
 <!-- GitHub stats -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=akshit-lakhera&show_icons=true&theme=dracula" alt="Akshit Lakhera's GitHub Stats"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Akshit Lakhera&show_icons=true&theme=dracula" alt="Akshit Lakhera's GitHub Stats"></p>
 
 <!-- Languages and tools -->
 <p align="center">
