@@ -29,9 +29,9 @@
 <!-- Projects -->
 <h2 align="center">💻 Some of my projects</h2>
 <p align="center">
-  <a href="https://design-agency-website.vercel.app/"><b>Creative agency website</b></a><br>Description of the project<br><br>
-  <a href="https://blurry-landing-page.vercel.app/"><b>Blurry loading page</b></a><br>Description of the project<br><br>
-  <a href="https://design-agency-website-wpdg.vercel.app/"><b>Cloud hosting website</b></a><br>Description of the project
+  <a href="https://design-agency-website.vercel.app/"><b>Creative agency website</b></a><br><br><br>
+  <a href="https://blurry-landing-page.vercel.app/"><b>Blurry loading page</b></a><br><br><br>
+  <a href="https://design-agency-website-wpdg.vercel.app/"><b>Cloud hosting website</b></a><br>
 </p>
 
 <!-- Fun facts -->
