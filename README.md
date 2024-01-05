@@ -44,4 +44,8 @@
 - 🌲 I'm an avid trekker and love exploring new trails and mountains. There's nothing quite like being surrounded by nature and feeling the rush of accomplishment after a long hike.
 - 🚀 I'm a big fan of science fiction movies, I love exploring new worlds and imagining what the future might hold.
 
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshitLakhera&theme=dark" alt="GitHub Streak">
+</p>
 
