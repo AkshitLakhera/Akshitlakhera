@@ -4,7 +4,6 @@
 <p align="center">I'm a full stack developer developer who is passionate about creating web applications and learning new technologies. I have experience in HTML, CSS, JavaScript, Tailwind ,Material Ui and various front-end frameworks such as React</p>
 
 <!-- Social media badges -->
-
 <p align="center">
   <a href="mailto:akshitlakhera14@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-FF4500?style=flat&logo=Gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/akshit-lakhera-798655206/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
