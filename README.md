@@ -1,7 +1,8 @@
 
 <!-- Introduction -->
 <h1 align="center">Hi there 👋, I'm Akshit Lakhera</h1>
-<p align="center">I'm a full stack developer developer who is passionate about creating web applications and learning new technologies. I have experience in HTML, CSS, JavaScript, Tailwind ,Material Ui and various front-end frameworks such as React</p>
+<p align="center">I'm a full stack developer developer who is passionate about creating web applications and learning new technologies. I have experience in HTML, CSS, JavaScript, Tailwind ,Material Ui React, typescrip.I am also proficient in backend technologies node.js, express.js,mongodb,mongoose,postgres sql,prisma.I have also knowledge of serverless environment like cloudflare and hono
+ </p>
 
 <!-- Social media badges -->
 <p align="center">
