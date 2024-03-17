@@ -1,9 +1,7 @@
-
 <!-- Introduction -->
 
 <h1 align="center">Hi there 👋, I'm Akshit Lakhera</h1>
-<p align="center">I'm a full stack developer developer who is passionate about creating web applications and learning new technologies. I have experience in HTML, CSS, JavaScript, Tailwind ,Material Ui React, typescrip.I am also proficient in backend technologies node.js, express.js,mongodb,mongoose,postgres sql,prisma.I have also knowledge of serverless environment like cloudflare and hono
- </p>
+<p align="center">I'm a passionate full stack developer with expertise in various technologies. I love creating innovative web applications and constantly expanding my skill set.</p>
 
 <!-- Social media badges -->
 <p align="center">
@@ -12,30 +10,31 @@
   <a href="https://twitter.com/AkshitLakhera"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"></a>
 </p>
 
-<!-- Languages and tools -->
+<!-- Technologies -->
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
- <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
-</p>
-
-<!-- Projects -->
-<h2 align="center">💻 Some of my projects</h2>
-<p align="center">
-  <a href="https://design-agency-website.vercel.app/"><b>Creative agency website</b></a><br><br><br>
-  <a href="https://blurry-landing-page.vercel.app/"><b>Blurry loading page</b></a><br><br><br>
-  <a href="https://design-agency-website-wpdg.vercel.app/"><b>Cloud hosting website</b></a><br>
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/-Material_UI-0081CB?style=flat&logo=material-ui&logoColor=white">
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white">
+  <img src="https://img.shields.io/badge/-Backblaze-005890?style=flat&logo=backblaze&logoColor=white">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-Hono-00ACFF?style=flat&logo=hono&logoColor=white">
 </p>
 
 <!-- Fun facts -->
 <h2 align="center">🎉 Some fun facts about me</h2>
 <ul align="center">
-  
+
 ## 🎉 Fun Fact
 
 - 📚 I love reading self-help books and am constantly on the lookout for new titles to add to my collection.
@@ -44,8 +43,20 @@
 - 🚀 I'm a big fan of science fiction movies, I love exploring new worlds and imagining what the future might hold.
 
 <br><br>
-<!-- GitHub Streak -->
+<!-- Image -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshitLakhera&theme=dark" alt="GitHub Streak">
+  <img src="https://cdn.pixabay.com/photo/2015/09/05/22/19/coding-925297_960_720.jpg" width="300" alt="Coding boy">
 </p>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkshitLakhera&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
+
+<!-- Additional Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitLakhera&layout=compact&theme=dark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AkshitLakhera&theme=dark" alt="Wakatime Stats">
+</p>
+
 
