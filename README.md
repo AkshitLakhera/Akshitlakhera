@@ -43,10 +43,7 @@
 - 🚀 I'm a big fan of science fiction movies, I love exploring new worlds and imagining what the future might hold.
 
 <br><br>
-<!-- Image -->
-<p align="center">
-  <img src="https://cdn.pixabay.com/photo/2015/09/05/22/19/coding-925297_960_720.jpg" width="300" alt="Coding boy">
-</p>
+
 
 <!-- GitHub Stats -->
 <p align="center">
@@ -59,3 +56,8 @@
   <!-- Wakatime Stats -->
 
 </p>
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshitLakhera&theme=black-ice" alt="GitHub Streak">
+</p>
+
