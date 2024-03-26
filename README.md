@@ -31,7 +31,7 @@
 </p>
 
 <!-- Fun facts -->
-<h2 align="center">🎉 Some fun facts about me</h2>
+<h2 align="center">🎉 My GitHub Stats </h2>
 <ul align="center">
 
 
