@@ -8,7 +8,6 @@
   <a href="https://www.linkedin.com/in/akshit-lakhera-798655206/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
   <a href="https://twitter.com/AkshitLakhera"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"></a>
 </p>
-
 <!-- Technologies -->
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white">
