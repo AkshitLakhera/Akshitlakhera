@@ -35,9 +35,6 @@
 
 
 <br><br>
-
-
-<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkshitLakhera&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
