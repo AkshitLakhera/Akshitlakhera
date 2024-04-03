@@ -32,8 +32,6 @@
 <!-- Fun facts -->
 <h2 align="center">🎉 My GitHub Stats </h2>
 <ul align="center">
-
-
 <br><br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkshitLakhera&show_icons=true&theme=dark" alt="GitHub Stats">
