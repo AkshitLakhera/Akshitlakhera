@@ -29,8 +29,6 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Hono-00ACFF?style=flat&logo=hono&logoColor=white">
 </p>
-
-<!-- Fun facts -->
 <h2 align="center">🎉 My GitHub Stats </h2>
 <ul align="center">
 <br><br>
@@ -41,7 +39,6 @@
 <!-- Additional Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitLakhera&layout=compact&theme=dark" alt="Top Languages">
-  <!-- Wakatime Stats -->
 
 </p>
 <!-- GitHub Streak -->
