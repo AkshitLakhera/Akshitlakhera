@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white">
-  <img src="https://img.shields.io/badge/-Backblaze-005890?style=flat&logo=backblaze&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/-Backblaze-005890?style=flat&logo=backblaze&logoColor=white"> -->
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Hono-00ACFF?style=flat&logo=hono&logoColor=white">
 </p>
