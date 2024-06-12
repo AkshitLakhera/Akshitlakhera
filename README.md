@@ -3,11 +3,13 @@
 <h1 align="center">Hi there 👋, I'm Akshit Lakhera</h1>
 <p align="center">I'm a passionate full stack developer with expertise in various technologies. I love creating innovative web applications and constantly expanding my skill set.</p>
 <!-- Social media badges -->
+
 <p align="center">
   <a href="mailto:akshitlakhera14@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-FF4500?style=flat&logo=Gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/akshit-lakhera-798655206/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
   <a href="https://twitter.com/AkshitLakhera"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"></a>
 </p>
+
 <!-- Technologies -->
 
 <p align="center">
