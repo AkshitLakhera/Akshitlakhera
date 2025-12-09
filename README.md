@@ -1,49 +1,65 @@
-<!-- Introduction -->
-
-<h1 align="center">Hi there 👋, I'm Akshit Lakhera</h1>
-<p align="center">I'm a passionate full stack developer with expertise in various technologies. I love creating innovative web applications and constantly expanding my skill set.</p>
-<!-- Social media badges -->
+<h1 align="center">👋 Hi, I'm Akshit Lakhera</h1>
 
 <p align="center">
-  <a href="mailto:akshitlakhera14@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-FF4500?style=flat&logo=Gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/akshit-lakhera-798655206/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/AkshitLakhera"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"></a>
+  Full-Stack Developer • Backend-Focused • Learning Rust & Solana  
 </p>
 
-<!-- Technologies -->
+---
 
+## 🚀 About Me
+- I enjoy building real, end-to-end systems — from backend logic to functional UIs.  
+- Currently exploring **system design**, **distributed systems**, and **blockchain (Solana)**.  
+- Comfortable across the stack but naturally inclined towards **backend engineering**, APIs, databases, and performance-driven code.  
+- Improving everyday by solving DSA, writing clean code, and working on real projects.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Backend & Databases**
+- Node.js • Express  
+- PostgreSQL • MongoDB  
+- Prisma ORM  
+- Redis (Basics)  
+
+### **Frontend**
+- React • Next.js  
+- Tailwind CSS  
+
+### **DevOps & Tools**
+- Docker  
+- Cloudflare  
+- Git • GitHub  
+
+### **Currently Learning**
+- Rust  
+- Solana (programs, PDAs, account model)  
+
+---
+
+## 📌 Highlighted Projects
+- **Mini Version Control System (C)** — custom commits, snapshots, history.  
+- **Healthcare Data Privacy dApp** — Solana + IPFS + secure data access.  
+- **Retail Sales Dashboard** — CSV ingestion, streaming, filters, backend APIs.  
+
+(You can hyperlink these once your repos are ready.)
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white">
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white">
-<!--   <img src="https://img.shields.io/badge/-Backblaze-005890?style=flat&logo=backblaze&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-Hono-00ACFF?style=flat&logo=hono&logoColor=white">
-</p>
-<h2 align="center">🎉 My GitHub Stats </h2>
-<ul align="center">
-<br><br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshitLakhera&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AkshitLakhera&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitLakhera&layout=compact&theme=tokyonight" />
 </p>
 
-<!-- Additional Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitLakhera&layout=compact&theme=dark" alt="Top Languages">
+---
 
+## 🌐 Connect With Me
+<p>
+  <a href="mailto:akshitlakhera14@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/akshit-lakhera-798655206/">LinkedIn</a> •
+  <a href="https://twitter.com/AkshitLakhera">Twitter</a>
 </p>
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AkshitLakhera&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
-</p>
+
+---
 
